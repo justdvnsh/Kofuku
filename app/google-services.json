@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "530714198823",
+    "firebase_url": "https://kofuku-4b4e5.firebaseio.com",
+    "project_id": "kofuku-4b4e5",
+    "storage_bucket": "kofuku-4b4e5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:530714198823:android:ef92f3553372272b8e1f02",
+        "android_client_info": {
+          "package_name": "divyansh.tech.kofuku"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "530714198823-1q6um7nvjls0l18d62og5bull7vruuh9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyALEkhLzXa7z6_atce4866AL39PJjkW_NE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "530714198823-1q6um7nvjls0l18d62og5bull7vruuh9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
